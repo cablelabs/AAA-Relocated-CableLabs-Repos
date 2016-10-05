@@ -2,6 +2,11 @@
 
 CableLabs has relocated some repositories previously held in GitHub to another Git system.  The following is a list of relocated projects and URLs to their new repositories.  
 
+
+*** GROUP:  DLNA-RUI ***
+------------------------
+
+
 gst-plugins-cablelabs-ruih:  https://nougat.cablelabs.com/DLNA-RUI/gst-plugins-cablelabs-ruih
 
 dtcpip_mock_lib:  https://nougat.cablelabs.com/DLNA-RUI/dtcpip_mock_lib
@@ -59,4 +64,61 @@ gst-plugins-dtcpip:  https://nougat.cablelabs.com/DLNA-RUI/gst-plugins-dtcpip
 gstreamer-helper:  https://nougat.cablelabs.com/DLNA-RUI/gstreamer-helper
 
 gst-plugins-dlnasrc:  https://nougat.cablelabs.com/DLNA-RUI/gst-plugins-dlnasrc
+
+gst-plugins-bad:  https://nougat.cablelabs.com/DLNA-RUI/gst-plugins-bad
+
+cvp2-dms-upgrade:  https://nougat.cablelabs.com/DLNA-RUI/cvp2-dms-upgrade
+
+
+
+*** GROUP:  App Technologies ***
+--------------------------------
+
+twc-bw-analysis:  https://nougat.cablelabs.com/App_Technologies/twc-bw-analysis
+
+orc:  https://nougat.cablelabs.com/App_Technologies/orc
+
+PCSim2:  https://nougat.cablelabs.com/App_Technologies/PCSim2
+
+track-test:  https://nougat.cablelabs.com/App_Technologies/track-test
+
+xpe-gstsync:  https://nougat.cablelabs.com/App_Technologies/xpe-gstsync
+
+dash.js:  https://nougat.cablelabs.com/App_Technologies/dash.js
+
+dash-conformance:  https://nougat.cablelabs.com/App_Technologies/dash-conformance
+
+mcast-abr:  https://nougat.cablelabs.com/App_Technologies/mcast-abr
+
+video-quality:  https://nougat.cablelabs.com/App_Technologies/video-quality
+
+html5wm: https://nougat.cablelabs.com/App_Technologies/html5wm
+
+ats-ebp-validator:  https://nougat.cablelabs.com/App_Technologies/ats-ebp-validator
+
+server-ingest:  https://nougat.cablelabs.com/App_Technologies/server-ingest
+
+iot-interworking-app-java: https://nougat.cablelabs.com/App_Technologies/iot-interworking-app-java
+
+iot-android-client-app:  https://nougat.cablelabs.com/App_Technologies/iot-android-client-app
+
+cl_controller_client:  https://nougat.cablelabs.com/App_Technologies/cl_controller_client
+
+meta-iot:  https://nougat.cablelabs.com/App_Technologies/meta-iot
+
+eme-test:  https://nougat.cablelabs.com/App_Technologies/eme-test
+
+ccn-docker:  https://nougat.cablelabs.com/App_Technologies/ccn-docker
+
+iot-clcdm:  https://nougat.cablelabs.com/App_Technologies/iot-clcdm
+
+iot-interworking-app-cpp:  https://nougat.cablelabs.com/App_Technologies/iot-interworking-app-cpp
+
+webkit: https://nougat.cablelabs.com/App_Technologies/webkit
+
+portabledsb:  https://nougat.cablelabs.com/App_Technologies/portabledsb
+
+iana-scte-urn:  https://nougat.cablelabs.com/App_Technologies/iana-scte-urn
+
+mse-eme:  https://nougat.cablelabs.com/App_Technologies/mse-eme
 
