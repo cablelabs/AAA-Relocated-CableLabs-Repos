@@ -1,6 +1,6 @@
 # AAA_Relocated-Repos
 
-CableLabs has relocated some repositories previously held in GitHub to another Git system.  The following is a list of relocated projects and URLs to their new repositories.  
+CableLabs has relocated some repositories previously held in GitHub to another Git system.  The following is a list of relocated projects and the URLs to their new repositories.  
 
 
 *** GROUP:  DLNA-RUI ***
@@ -121,4 +121,84 @@ portabledsb:  https://nougat.cablelabs.com/App_Technologies/portabledsb
 iana-scte-urn:  https://nougat.cablelabs.com/App_Technologies/iana-scte-urn
 
 mse-eme:  https://nougat.cablelabs.com/App_Technologies/mse-eme
+
+squash-tester: https://nougat.cablelabs.com/App_Technologies/squash-tester
+
+edge-device-analytics: https://nougat.cablelabs.com/Innovation/edge-device-analytics
+
+dashserver: https://nougat.cablelabs.com/Innovation/dashserver
+
+cybersecurity-wg: https://nougat.cablelabs.com/Innovation/cybersecurity-wg
+
+mse: https://nougat.cablelabs.com/Innovation/mse
+
+sdom-ws2bridge: https://nougat.cablelabs.com/Innovation/sdom-ws2bridge
+
+mse-usps: https://nougat.cablelabs.com/Innovation/mse-usps
+
+spectral-formatter: https://nougat.cablelabs.com/Innovation/spectral-formatter
+
+odl: https://nougat.cablelabs.com/Innovation/odl
+
+mse-server: https://nougat.cablelabs.com/Innovation/mse-server
+
+sdom-html: https://nougat.cablelabs.com/Innovation/sdom-html
+
+mse-android: https://nougat.cablelabs.com/Innovation/mse-android
+
+mse-qrc: https://nougat.cablelabs.com/Innovation/mse-qrc
+
+mse-site: https://nougat.cablelabs.com/Innovation/mse-site
+
+eda-innovation: https://nougat.cablelabs.com/Innovation/eda-innovation
+
+nfv: https://nougat.cablelabs.com/Innovation/nfv
+
+mse-cablelabs: https://nougat.cablelabs.com/Innovation/mse-cablelabs
+
+mse-php: https://nougat.cablelabs.com/Innovation/mse-php
+
+mse-server-android: https://nougat.cablelabs.com/Innovation/mse-server-android
+
+mse-html: https://nougat.cablelabs.com/Innovation/mse-html
+
+npsdemo: https://nougat.cablelabs.com/Innovation/npsdemo
+
+pronet: https://nougat.cablelabs.com/Innovation/pronet
+
+HIPnet: https://nougat.cablelabs.com/Innovation/HIPnet
+
+mse-ios: https://nougat.cablelabs.com/Innovation/mse-ios
+
+VRC_Server
+
+vrconference
+
+CCNx_Distillery
+
+metis-controller
+
+Metis
+
+Libparc
+
+ipoc
+
+BlendShapeTool
+
+Libccnx-transport-rta
+
+zlog
+
+multipath
+
+vrc-config
+
+BuildUnityAssetBundle
+
+Athena
+
+brightsign
+
+
 
