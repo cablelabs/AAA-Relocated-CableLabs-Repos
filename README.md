@@ -3,8 +3,8 @@
 CableLabs has relocated some repositories previously held in GitHub to another Git system.  The following is a list of relocated projects and the URLs to their new repositories.  
 
 
-*** GROUP:  DLNA-RUI ***
-------------------------
+*** CableLabs GitLab GROUP:  DLNA-RUI ***
+-----------------------------------------
 
 
 gst-plugins-cablelabs-ruih:  https://nougat.cablelabs.com/DLNA-RUI/gst-plugins-cablelabs-ruih
@@ -71,8 +71,8 @@ cvp2-dms-upgrade:  https://nougat.cablelabs.com/DLNA-RUI/cvp2-dms-upgrade
 
 
 
-*** GROUP:  App Technologies ***
---------------------------------
+*** CableLabs GitLab GROUP:  App Technologies ***
+-------------------------------------------------
 
 twc-bw-analysis:  https://nougat.cablelabs.com/App_Technologies/twc-bw-analysis
 
@@ -123,8 +123,8 @@ iana-scte-urn:  https://nougat.cablelabs.com/App_Technologies/iana-scte-urn
 mse-eme:  https://nougat.cablelabs.com/App_Technologies/mse-eme
 
 
-*** GROUP:  Innovation ***
---------------------------------
+*** CableLabs GitLab GROUP:  Innovation ***
+-------------------------------------------
 
 squash-tester: https://nougat.cablelabs.com/App_Technologies/squash-tester
 
