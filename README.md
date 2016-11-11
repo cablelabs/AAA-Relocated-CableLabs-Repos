@@ -204,5 +204,9 @@ Athena: https://nougat.cablelabs.com/Innovation/Athena
 
 brightsign: https://nougat.cablelabs.com/Innovation/brightsign
 
+vcpe: https://nougat.cablelabs.com/VNE/vcpe
+
+vcpe: https://nougat.cablelabs.com/VNE/vcpebuild
+
 
 
