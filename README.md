@@ -1,6 +1,6 @@
-# AAA_Relocated-Repos
+# AAA-Relocated-CableLabs-Repos
 
-CableLabs has relocated some repositories previously held in GitHub to another Git system.  The following is a list of relocated projects and the URLs to their new repositories.  
+CableLabs has relocated a number of repositories previously held in GitHub to another Git system.  All commit history, branch, and tag information is maintained in the new location.  The following is a list of relocated projects and the URLs to their new repositories.  
 
 
 *** CableLabs GitLab GROUP:  DLNA-RUI ***
